@@ -12,7 +12,7 @@ Unicode es un codigo que basicamente el codigo original de los caracteres que ut
 >>>
 ```
 
-Unicode soluciona un problema que existe al intercambiar información con diferentes lenguajes donde se utilizan simbolos diferntes. Unicode abraza todos estos caracteres y los pone como parte de un solo grupo.
+Unicode soluciona un problema que existe al intercambiar información con diferentes lenguajes donde se utilizan simbolos diferentes. Unicode abraza todos estos caracteres y los pone como parte de un solo grupo.
 
 - UTF-8 es la codificacion que manejamos actualmente y es la mejor practica.
 
